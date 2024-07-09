@@ -20,25 +20,19 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
    git clone https://github.com/lucascarmu/SeminarioAngular.git
    ```
 
-2. Navega al directorio del proyecto:
-
-   ```bash
-   cd NoGlutenZone
-   ```
-
-3. Instala las dependencias necesarias:
+2. Instala las dependencias necesarias:
 
    ```bash
    npm install
    ```
 
-4. Ejecuta la aplicación:
+3. Ejecuta la aplicación:
 
    ```bash
    ng serve
    ```
 
-5. Abre tu navegador y visita `http://localhost:4200` para ver la aplicación en funcionamiento.
+4. Abre tu navegador y visita `http://localhost:4200` para ver la aplicación en funcionamiento.
 
 ## Proyecto en StackBlitz
 
