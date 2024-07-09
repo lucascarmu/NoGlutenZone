@@ -44,4 +44,4 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 Puedes acceder a la versión editable de este proyecto en StackBlitz a través del siguiente enlace:
 
-[No Gluten Zone en StackBlitz](https://stackblitz.com/edit/angular-ivy-nn)
+[No Gluten Zone en StackBlitz](https://stackblitz.com/~/github.com/lucascarmu/NoGlutenZone)
